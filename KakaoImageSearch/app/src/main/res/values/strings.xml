@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KakaoImageSearch</string>
+    <string name="input_search_word">검색어를 입력해주세요.</string>
+    <string name="search_word">검색어</string>
 </resources>
